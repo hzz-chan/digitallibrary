@@ -15,6 +15,6 @@ Koleksi
 8. [Little Women](ebook/Little Women Louisa May Alcott.pdf) - Louisa May Alcott, (1868)
 9. [Laskar Pelangi](ebook/Andrea Hirata - Laskar Pelangi.pdf) - Andrea Hirata, (2005)
 10. [46 Resep Variasi Nasi Goreng](ebook/46 Resep Variasi Nasi Goreng by Tim Pustaka Hanan.pdf) - Tim Pustaka Hanan, (2009)
-...
+11. [Virtual Reality di Perpustakaan](ebook/Virtual Reality di Perpustakaan.pdf) - Hizkia Chandra, (2025)
 
 *powered by Github Pages*
