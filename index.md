@@ -19,5 +19,6 @@ Koleksi
 
 [Halaman 1](webti/halaman1.html)
 <a href="webti/halaman2.html">Halaman 2</a>
+<a href="webti/halaman5.html">Halaman 5</a>
 
 *powered by Github Pages*
