@@ -1,0 +1,41 @@
+<html>
+<HEAD>
+<TITLE>Halaman 1</TITLE>
+</HEAD>
+<body> 
+<h1 style="background-color:black;"> 
+<marquee direction="up">
+<font face="Future" color="white">Selamat Datang di Halaman 1
+</marquee>
+</h1>
+<hr>
+<marquee>
+<a href="halaman 1.html">Halaman 1</a> /
+<a href="halaman 2.html">Halaman 2</a> /
+<a href="halaman 3.html">Halaman 3</a> /
+<a href="halaman 4.html">Halaman 4</a>
+</marquee>
+<hr>
+<p><font color="red" face="arial">My First Paragraph</font></p> 
+<marquee direction="down" width="250" height="100" behavior="alternate" style="border:solid">
+<marquee behavior="alternate">
+O o O
+</marquee>
+</marquee>
+<p>Klik tombol untuk menampilkan Prompt Box</p>
+<button onclick="myFunction()">Coba</button>
+<p id="demo"></p>
+<script>
+function myFunction() {
+var x;
+var nama = prompt("Anda telah mengambil matakuliah Teknologi Informasi, ketikkan nama Anda!","Your Name Here");
+var nim = prompt("Ketikkan nim Anda!");
+var prodi = prompt("Ketikkan prodi Anda!");
+if (nama != null) {
+document.getElementById("demo").innerHTML =
+"Selamat Pagi " + nama + "! Nim Anda : "+ nim + "! Prodi Anda : "+ prodi;
+}
+}
+</script>
+</body>
+</html>
