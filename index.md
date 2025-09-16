@@ -17,15 +17,14 @@ Koleksi
 10. [46 Resep Variasi Nasi Goreng](ebook/46 Resep Variasi Nasi Goreng by Tim Pustaka Hanan.pdf) - Tim Pustaka Hanan, (2009)
 11. [Virtual Reality di Perpustakaan](ebook/Virtual Reality di Perpustakaan.pdf) - Hizkia Chandra, (2025)
 
-[Halaman 1](webti/halaman1.html)
-<a href="webti/halaman2.html">Halaman 2</a>
+[Halaman 1](webti/halaman1.html)              <a href="webti/halaman4.html">Halaman 4</a>
+<a href="webti/halaman2.html">Halaman 2</a>   <a href="webti/halaman5.html">Halaman 5</a>
+<a href="webti/halaman3.html">Halaman 3</a>   <a href="webti/halaman6.html">Halaman 6</a>                                     
 
-<a href="webti/halaman3.html">Halaman 3</a>
 
-<a href="webti/halaman4.html">Halaman 4</a>
 
-<a href="webti/halaman5.html">Halaman 5</a>
 
-<a href="webti/halaman6.html">Halaman 6</a>
+ 
+
 
 *powered by Github Pages*
