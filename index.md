@@ -21,6 +21,7 @@ Koleksi
 <a href="webti/halaman2.html">Halaman 2</a>   
 <a href="webti/halaman3.html">Halaman 3</a>                                        
 <a href="webti/halaman4.html">Halaman 4</a>
+
 <a href="webti/halaman5.html">Halaman 5</a>
 <a href="webti/halaman6.html">Halaman 6</a>
 <a href="webti/halaman7.html">Halaman 7</a>
