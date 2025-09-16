@@ -18,5 +18,6 @@ Koleksi
 11. [Virtual Reality di Perpustakaan](ebook/Virtual Reality di Perpustakaan.pdf) - Hizkia Chandra, (2025)
 
 [Halaman 1](webti/halaman1.html)
+<a href="webti/halaman2.html">Halaman 2</a>
 
 *powered by Github Pages*
