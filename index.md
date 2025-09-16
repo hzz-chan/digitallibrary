@@ -25,6 +25,8 @@ Koleksi
 <a href="webti/halaman6.html">Halaman 6</a>
 <a href="webti/halaman7.html">Halaman 7</a>
 
+[Index](digitallibrary/index.md) 
+
  
 
 
